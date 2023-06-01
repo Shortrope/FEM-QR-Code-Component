@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox to center the component on the screen.
 - @import fonts
 - Used hsl colors for the first time
-
+- HTML and ARIA Landmarks
 
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
